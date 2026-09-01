@@ -1,0 +1,19 @@
+Go to Google AI Key (Google Studio) to create an API Key
+Create an API key on Groq
+Create OpenAI API Key
+
+the functions need docstring to work and the AI understand what they do
+
+
+- model.invoke — sends one prompt, waits, returns the full response at once.
+- model.stream — sends one prompt, returns the response incrementally as chunks while it's generated.
+- model.batch — sends multiple prompts at once (a list), returns a list of full responses, run concurrently.
+
+
+MIDLEWARES
+- Summarization
+- Human in the Loop
+- Model Call Limit
+- other ...
+
+check all middlewares on langchain docs
