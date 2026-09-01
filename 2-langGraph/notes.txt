@@ -1,0 +1,33 @@
+https://github.com/krishnaik06/Agentic-LanggraphCrash-course
+
+
+
+Build a basic chatbot
+
+Components of Lang Graph
+
+1 - Edges
+2 - Nodes
+3 - Stack
+
+
+1 - Graph API
+2 - Functional API
+
+
+add_messages = Reducer
+
+
+tavily = scrap tool
+needs to create an API key to use
+
+MCP
+uses protocols stdio and http
+
+libs used
+langchain-mcp-adapters // for langchain MCP
+mcp // for fastMCP 
+
+obs: when using transport="streamable-http", when you run the file e.g. python 3-mcp/weather.py will create a server
+
+obs: before run client.py the server (weather.py) needs to be running
