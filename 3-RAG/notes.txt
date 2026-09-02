@@ -1,0 +1,5 @@
+the firt project is a basic RAG in notebook/1-document
+
+the second project creates two other RAG with Pipeline reading PDF file in notebook/2-pdf_loader
+
+the thirth project is in src folder, created an entire Pipeline (data_loader, embedding, vector_store), to run use app.py
