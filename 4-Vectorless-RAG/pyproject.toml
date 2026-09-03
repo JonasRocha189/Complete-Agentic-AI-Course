@@ -1,0 +1,11 @@
+[project]
+name = "4-vectorless-rag"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.11.5"
+dependencies = [
+    "openai>=3.7.0",
+    "pageindex>=0.2.8",
+    "python-dotenv>=1.2.3",
+]
