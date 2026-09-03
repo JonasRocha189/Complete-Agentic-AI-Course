@@ -1,0 +1,14 @@
+[project]
+name = "7-llm-gateway"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.11.5"
+dependencies = [
+    "langchain>=1.4.0",
+    "langchain-community>=0.4.2",
+    "langchain-litellm>=0.7.1",
+    "langchain-openai>=1.6.0",
+    "litellm>=1.99.0",
+    "python-dotenv>=1.2.3",
+]
